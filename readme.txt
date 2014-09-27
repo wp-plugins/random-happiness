@@ -2,7 +2,7 @@
 Contributors: WebYourBusiness,greghl
 Donate link: http://webyourbusiness.com/random-happiness
 Requires at least: 3.0
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Tested up to: 4.0
 License: GPLv2 or later
 Tags: Admin, admin, happing, random, quotes, fortune cookie, cookie, cookies, fortunes, happiness
@@ -29,6 +29,9 @@ This is just a plugin, it provides random happy thoughts in the upper right of y
 If you have questions - ask them on our webpage
 
 == Upgrade Notice ==
+
+= 1.0.2 =
+added Fall happiness quotes as inc/happy11.inc.php
 
 = 1.0.1 =
 added happiness quotes as inc/happy10.inc.php

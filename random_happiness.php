@@ -1,14 +1,14 @@
 <?php
 /**
  * @package random_happines
- * @version 1.0.1
+ * @version 1.0.2
  */
 /*
 Plugin Name: Random Happiness
 Plugin URI: http://wordpress.org/extend/plugins/random-happiness/
 Description: This is just a plugin, it provides random happy thoughts in the upper right of your admin screen on every page.
 Author: Greg Hewitt-Long
-Version: 1.0.1
+Version: 1.0.2
 Author URI: http://www.webyourbusiness.com/
 
 
@@ -16,6 +16,7 @@ Release Notes:
 
 1.0 - Initial release
 1.0.1 - added happiness quotes as inc/happy10.inc.php
+1.0.2 - added Fall happiness quotes as inc/happy11.inc.php
 */
 $happy_library='';
 
