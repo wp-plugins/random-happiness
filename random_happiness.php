@@ -1,7 +1,7 @@
 <?php
 /**
  * @package random_happines
- * @version 1.0.2
+ * @version 1.0.2.1
  */
 /*
 Plugin Name: Random Happiness
@@ -17,6 +17,7 @@ Release Notes:
 1.0 - Initial release
 1.0.1 - added happiness quotes as inc/happy10.inc.php
 1.0.2 - added Fall happiness quotes as inc/happy11.inc.php
+1.0.2.1 - tested on WP 4.1
 */
 $happy_library='';
 

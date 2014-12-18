@@ -2,8 +2,8 @@
 Contributors: WebYourBusiness,greghl
 Donate link: http://webyourbusiness.com/random-happiness
 Requires at least: 3.0
-Stable tag: 1.0.2
-Tested up to: 4.0
+Stable tag: 1.0.2.1
+Tested up to: 4.1
 License: GPLv2 or later
 Tags: Admin, admin, happing, random, quotes, fortune cookie, cookie, cookies, fortunes, happiness
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
