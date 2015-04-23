@@ -2,8 +2,8 @@
 Contributors: WebYourBusiness,greghl
 Donate link: http://webyourbusiness.com/random-happiness
 Requires at least: 3.0
-Stable tag: 1.0.3
-Tested up to: 4.1.2
+Stable tag: 1.0.3.1
+Tested up to: 4.2
 License: GPLv2 or later
 Tags: Admin, admin, happing, random, quotes, fortune cookie, cookie, cookies, fortunes, happiness
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -29,6 +29,9 @@ This is just a plugin, it provides random happy thoughts in the upper right of y
 If you have questions - ask them on our webpage
 
 == Upgrade Notice ==
+
+= 1.0.3.1 =
+tested on WordPress 4.2 Powell
 
 = 1.0.3 =
 added holiday quotes as inc/happy55.inc.php
