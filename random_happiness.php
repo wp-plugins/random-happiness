@@ -8,7 +8,7 @@ Plugin Name: Random Happiness
 Plugin URI: http://wordpress.org/extend/plugins/random-happiness/
 Description: This is just a plugin, it provides random happy thoughts in the upper right of your admin screen on every page.
 Author: Greg Hewitt-Long
-Version: 1.0.3.1
+Version: 1.0.3.2
 Author URI: http://www.webyourbusiness.com/
 
 
@@ -20,6 +20,7 @@ Release Notes:
 1.0.2.1 - tested on WP 4.1
 1.0.3 - added holiday quotes as inc/happy55.inc.php
 1.0.3.1 - tested on WordPress 4.2 Powell
+1.0.3.2 - tested on WordPress 4.2.4
 */
 $happy_library='';
 

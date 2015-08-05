@@ -2,7 +2,7 @@
 Contributors: WebYourBusiness,greghl
 Donate link: http://webyourbusiness.com/random-happiness
 Requires at least: 3.0
-Stable tag: 1.0.3.1
+Stable tag: 1.0.3.2
 Tested up to: 4.2.2
 License: GPLv2 or later
 Tags: Admin, admin, happing, random, quotes, fortune cookie, cookie, cookies, fortunes, happiness
@@ -30,6 +30,8 @@ If you have questions - ask them on our webpage
 
 == Upgrade Notice ==
 
+= 1.0.3.2 =
+tested on WordPress 4.2.4
 = 1.0.3.1 =
 tested on WordPress 4.2 Powell
 
@@ -45,3 +47,7 @@ added happiness quotes as inc/happy10.inc.php
 = 1.0 =
 No upgrades yet
 
+== Changelog ==
+
+= 1.0.3.2 =
+tested on WordPress 4.2.4
